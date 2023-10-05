@@ -454,31 +454,30 @@ BOT WORKING PROPERLY"""
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISH_INFO = """
-Hey <a href='tg://settings'>My Friend</a> 
+
+ Hᴇʏ <a {mention} </a>
 
 
- Now you can earn money on Telegram too.
+Nᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴏɴ Tᴇʟᴇɢʀᴀᴍ ᴛᴏᴏ.
 
- You must have 1 group to earn money by telegram.
- If you have a group, you can earn money by adding our bot to your group.
+Yᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ 𝟷 ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ ᴛᴇʟᴇɢʀᴀᴍ.
+Iғ ʏᴏᴜ ʜᴀᴠᴇ ᴀ ɢʀᴏᴜᴘ, ʏᴏᴜ ᴄᴀɴ ᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ ᴀᴅᴅɪɴɢ ᴏᴜʀ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 
- The more members you have in your group, the higher your income will be.
+Tʜᴇ ᴍᴏʀᴇ ᴍᴇᴍʙᴇʀs ʏᴏᴜ ʜᴀᴠᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ, ᴛʜᴇ ʜɪɢʜᴇʀ ʏᴏᴜʀ ɪɴᴄᴏᴍᴇ ᴡɪʟʟ ʙᴇ.
 
- How and what to do
+Nᴏᴡ Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs
 
- Step 1: Administer this THALAPATHY-FILTER-BOT bot to your group
+Sᴛᴇᴘ 𝟷: Mᴀᴋᴇ @AutoFilter_Z_iBot Aᴅᴍɪɴ ɪɴ Yᴏᴜʀ Gʀᴏᴜᴘ 
 
- Step 2: Add your website and API
+Sᴛᴇᴘ 𝟸: Tʏᴘᴇ Nᴀᴍᴇ ᴏғ Yᴏᴜʀ Lɪɴᴋ Sʜᴏʀᴛɴᴇʀ Wᴇʙsɪᴛᴇ ᴀɴᴅ Iᴛs API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+Eg: /shortlink Vipurl.in 2d29c62985007272da9f8a2b5c36e724371334c1
 
- Add a video
+Aᴅᴅ ᴀ Tᴜᴛᴏʀɪᴀʟ Vɪᴅᴇᴏ
 
- 👇 How to add 👇
+👇 Hᴏᴡ ᴛᴏ ᴀᴅᴅ 👇
 
- Exp: /set_tutorial video link
-
-Also your tutorial will be Added Your Group..."""
+Eg: /set_tutorial [ᴠɪᴅᴇᴏ ʟɪɴᴋ]..."""
 
     TELUGU_INFO = """
 హే <a href='tg://settings'>My Friend</a> 
