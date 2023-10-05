@@ -399,7 +399,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
   
     SHARE_TXT = """<b>/share ﹛ ʏᴏᴜʀ ᴛᴇxᴛ ﹜ 
   
- - ᴇx :- /share hi da 
+ - ᴇx :- /share Arsenal Botz
   
  </b>""" 
   
@@ -455,8 +455,7 @@ BOT WORKING PROPERLY"""
 
     ENGLISH_INFO = """
 
- Hᴇʏ <a {mention} </a>
-
+  <a Hᴇʏ Mᴀᴛᴇ</a>
 
 Nᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴏɴ Tᴇʟᴇɢʀᴀᴍ ᴛᴏᴏ.
 
