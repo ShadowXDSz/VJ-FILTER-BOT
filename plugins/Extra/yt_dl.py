@@ -23,7 +23,7 @@ async def song(client, message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    m = await message.reply(f"**ѕєαrchíng чσur ѕσng...!\n {query}**")
+    m = await message.reply(f"**Sᴇᴀʀᴄʜɪɴɢ Yᴏᴜʀ Sᴏɴɢ...!\n {query}**")
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -33,7 +33,7 @@ async def song(client, message):
         thumb_name = f'thumb{title}.jpg'
         thumb = requests.get(thumbnail, allow_redirects=True)
         open(thumb_name, 'wb').write(thumb.content)
-        performer = f"[VJ NETWORKS™]" 
+        performer = f"[Aʀsᴇɴᴀʟ Bᴏᴛᴢ]" 
         duration = results[0]["duration"]
         url_suffix = results[0]["url_suffix"]
         views = results[0]["views"]
@@ -41,14 +41,14 @@ async def song(client, message):
         print(str(e))
         return await m.edit("Example: /song vaa vaathi song")
                 
-    await m.edit("**dσwnlσαdíng чσur ѕσng...!**")
+    await m.edit("**Dᴏᴡɴʟᴏᴀᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ...!**")
     try:
         with YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
 
-        cap = "**BY›› [VJ NETWORKS™](https://t.me/vj_bots)**"
+        cap = "**BY›› [Aʀsᴇɴᴀʟ Bᴏᴛᴢ](https://t.me/Arsenal_bots_updates)**"
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
