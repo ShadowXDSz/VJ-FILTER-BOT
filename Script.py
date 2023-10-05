@@ -20,12 +20,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-Where is source code? - <a href='https://youtube.com/@Tech_VJ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
+<b>Nᴏᴛᴇ:
+✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ - <a href=https://t.me/Shadow_XD_ChatBot>ꕶʜᴀᴅᴏꪝ</a>
+✭ Sᴏᴜʀᴄᴇ - ɪᴛ's ᴀ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏ
+✭ Pᴀɪᴅ Bᴏᴛ Mᴀᴋɪɴɢ Sᴇʀᴠɪᴄᴇ ɪꜱ Aᴠᴀɪʟᴀʙʟᴇ
 
 Cᴏɴᴛᴀᴄᴛ Mᴇ Hᴇʀᴇ - <a href='https://t.me/Shadow_XD_ChatBot'>Dᴇᴠ/Cʀᴇᴀᴛᴏʀ</a></b>"""
 
