@@ -26,14 +26,14 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/ebad2eb29a3d2702e1531.jpg https://telegra.ph/file/5250452a1ab5364cfc4dc.jpg https://telegra.ph/file/68a707b00e8e88ed3c4a4.jpg https://telegra.ph/file/f44b3f7381cbf2e7708bb.jpg https://telegra.ph/file/4aaa6122c1fe3b71cf52c.jpg https://telegra.ph/file/486a9c2e80ed1729a345f.jpg https://telegra.ph/file/b165f958d038b903d43e1.jpg https://telegra.ph/file/989a744a60c061838444f.jpg https://telegra.ph/file/ff8f67820985179067982.jpg https://telegra.ph/file/3d8c714a3b0c04bfdec7e.jpg https://telegra.ph/file/fd0e1a19b0268c005edf8.jpg https://telegra.ph/file/8cfe0b5ceaa7b969448c4.jpg https://telegra.ph/file/5965fb86394de52b45e31.jpg https://telegra.ph/file/b826e4fabf1bf0fa72db3.jpg https://telegra.ph/file/baba127a57d74bc19e956.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://graph.org/file/3bd3051bb1f513ad7e3f7.jpg https://graph.org/file/2ea351dd49ee2279752be.jpg https://graph.org/file/0b5faa7ec3cc2accad94e.jpg https://graph.org/file/0bf746de26bee36cf2eba.jpg https://graph.org/file/cc05c190761bdaedbf4cd.jpg https://graph.org/file/43dcc2d386c10a5064839.jpg https://graph.org/file/2bd948ad125bb61610908.jpg https://graph.org/file/6c021f6d3f4a2c23cd09a.jpg https://graph.org/file/5c0f1934b052b784e3187.jpg https://graph.org/file/254ce51e4a1a769ba7c32.jpg https://graph.org/file/b928ee1a59f3c442257bf.jpg https://graph.org/file/0bd2d7889dad6e3a05d25.jpg https://graph.org/file/1baf402188f20794fb16f.jpg https://graph.org/file/48ded7912f9a2d2d34cf8.jpg https://graph.org/file/7e5912fd07e311953caab.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1737202396').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001597165437').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001768075000').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '').split()]
@@ -65,7 +65,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/HelpDesk_XDs')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Arsenal_Bots_Updates')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
-MSG_ALRT = environ.get('MSG_ALRT', 'Wɪᴛʜ Lᴏᴠᴇ Aʀsᴇɴᴀʟ Bᴏᴛᴢ ❤️')
+MSG_ALRT = environ.get('MSG_ALRT', 'Wɪᴛʜ Lᴏᴠᴇ Aʀsᴇɴᴀʟ Bᴏᴛᴢ ⚡')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001907719315'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'HelpDesk_XDs')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
@@ -80,7 +80,7 @@ LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False")
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001768075000')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
