@@ -1,8 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
-
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,I ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
 
@@ -82,12 +77,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
-my features Stay here new features coming soon...  
- <b>✯ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/Shadow_XD_ChatBot>ꕶʜᴀᴅᴏꪝ</a></b>
-  
- <b>✯ Jᴏɪɴ Hᴇʀᴇ: <a href=https://t.me/Arsenal_Bots_Updates>Bᴏᴛs Uᴘᴅᴀᴛᴇs</a></b> 
-  
- ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code> 
+
+  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code> 
   
  ./info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code> 
   
@@ -287,17 +278,6 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴜᴘꜱ ᴀɴᴅ ᴘᴍꜱ 
  ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ</b>""" 
   
-    CORONA_TXT = """<b>ʜᴇʟᴩ: ᴄᴏᴠɪᴅ 
-  
- ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴩꜱ yᴏᴜ ᴛᴏ ᴋɴᴏᴡ ᴅᴀɪʟy ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴄᴏᴠɪᴅ 
-  
- ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ: 
-  
- /covid - ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴡɪᴛʜ yᴏᴜʀ ᴄᴏᴜɴᴛʀy ɴᴀᴍᴇ ᴛᴏ ɢᴇᴛ ᴄᴏᴠɪᴅᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ 
- ᴇxᴀᴍᴩʟᴇ:<code>/covid 𝖨𝗇𝖽𝗂𝖺</code> 
-  
- ⚠️ ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ʜᴀꜱ ʙᴇᴇɴ ꜱᴛᴏᴩᴩᴇᴅ 
-  
  </b>""" 
   
     ABOOK_TXT = """<b>ʜᴇʟᴩ : ᴀᴜᴅɪᴏʙᴏᴏᴋ 
@@ -461,7 +441,7 @@ BOT WORKING PROPERLY"""
 
     ENGLISH_INFO = """
 
-  <a Hᴇʏ Mᴀᴛᴇ</a>
+  <a Hᴇʏ <a href='tg://settings'>ᴍᴀᴛᴇ</a> 
 
 Nᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴏɴ Tᴇʟᴇɢʀᴀᴍ ᴛᴏᴏ.
 
@@ -565,7 +545,7 @@ Eg: /set_tutorial [ᴠɪᴅᴇᴏ ʟɪɴᴋ]..."""
 
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
-    URTU_INFO = """
+    URDU_INFO = """
  <a href='tg://settings'>My Friend</a> 
 
 
@@ -620,7 +600,7 @@ Eg: /set_tutorial [ᴠɪᴅᴇᴏ ʟɪɴᴋ]..."""
 તેમજ તમારી ટીમ વિડિયો કલેક્શનની તાલીમ આપશે..."""
 
     KANNADA_INFO = """
-ಹೇ {message.from_user.mention}
+ಹೇ <a href='tg://settings'>My Friend</a> 
 
  ಈಗ ನೀವು ಟೆಲಿಗ್ರಾಮ್‌ನಲ್ಲಿಯೂ ಹಣ ಗಳಿಸಬಹುದು.
 
@@ -684,10 +664,6 @@ special Thanks To ❤️ Developers -
 - Dev 4 <a href='https://t.me/Shadow_XD_ChatBot'>ꕶʜᴀᴅᴏꪝ</a>
 """
 
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
 
     
